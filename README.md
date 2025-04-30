@@ -11,7 +11,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vicky-hervian-pangestu" target="_blank">
+  <a href="https://www.linkedin.com/in/vicky-hervian-pangestu-86079521a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vicky%20Hervian%20Pangestu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vickyhervian@gmail.com">
