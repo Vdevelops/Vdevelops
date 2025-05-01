@@ -50,14 +50,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-- 🧠 [Mental Health App](https://github.com/Vdevelops/mental-health-app) – Flutter & Laravel app for psychological screening  
-- 💼 [UMKM Bookkeeping System](https://github.com/Vdevelops/umkm-bookkeeping) – Financial system with PDF export & seeder  
-- 🏥 [Hospital Directory](https://github.com/Vdevelops/hospital-directory) – Booking, chat, subscription, and realtime features  
-
----
-
 ### 📌 Quote of the Day
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
