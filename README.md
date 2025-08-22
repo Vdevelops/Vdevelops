@@ -135,19 +135,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Vdevelops/hospital-directory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vdevelops&repo=hospital-directory&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5" />
-  </a>
-  <a href="https://github.com/Vdevelops/e-commerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vdevelops&repo=e-commerce-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5" />
-  </a>
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <table align="center">
